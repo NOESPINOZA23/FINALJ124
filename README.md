@@ -17,6 +17,7 @@ Final project for Data Journalism. Five Questions will be answered through data 
 First, a pivot table need to be inserted. Then choose plug the names-states into the rows section. Second, plug the total females in poverty on the values section. The adjust the pivot to summarize the table by MAX numbers. This pivot table will give the MAXIMUM number as a total. This total is the state that has the maximum women inpoverty in the whole country. 
 
 
+(there is a picture with this_!!!!!!
 
 
 
