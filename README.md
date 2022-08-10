@@ -136,32 +136,28 @@ In this project, I analyzed different data sets from the [Census reporter](https
 ### Potential Interview Contacts:
 #### 1- Jotaka L. Eaddy, a tech Advisor and Senior Strategist
 
-[Contact Website](https://www.jotakaeaddy.com/contact)
-
-Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
 
 Eaddy would be a qualified contributors to my story because she is very knowledgeable of the system the oppresses women. She has even made an organization, and has gave statements in the United Nations related to intolerances. As a leader women she understands the oppression from another point of view because she has lived it even at white collar scenarios. 
 * Jotaka is the founder of the movement #WinWithBlackWomen (2020), an intergenerational, intersectional group of Black women leaders. These women are representing business, sports, movement, politics, entertainment and more. 
 * #WinWithBlackWomen is credited with making a significant impact on the historic election of 2020 which resulted in the United States first Black woman Vice President–Kamala Harris. 
 * Eaddy gave a statment at the Geneva, 5 – 16, October 2015 in Palais des Nations, Conference Room XXI in which she emphasized income inequality, education, access to technology and STEM education illustrating “the deep correlations between race and poverty” and women. 
 
+[Contact Website](https://www.jotakaeaddy.com/contact)
+
+Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
+
 #### 2- Dr. Christina M. Castro, founder contributor of The Three Sisters Collective
-Email: [message3sc@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 Castro could contribute to my report because she know how disadvantaged people are always in economic needs. She has worked closely with low income and disadvantaged families. 
 * Dr. Christina M. Castro and the organization she helped found, the Three Sisters Collective, worked hard to support the Indigenous Santa Fe community through many challenges this year. When COVID hit, she helped organize a fundraiser for native families experiencing hardship. 
 * During the rough fire season, her organization members came together to purchase and distribute air purifiers and water for native families struggling with the air quality.
 * Throughout these challenges, she worked tirelessly on the Three Sisters Collective’s mural project that protects existing Indigenous artwork in Sante Fe and is creating additional murals to celebrate Indigenous culture and people in the area.
 
+Email: [message3sc@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
 #### 3- Oasis for Girls 
 
 [Youth non-profit organization](https://www.oasisforgirls.org/)
-
-[sfoasis@sfoasis.org](https://mail.google.com/mail/u/0/#inbox)
-
-1091 Mission St, San Francisco, CA 94103
-
-(415) 701-7991
 
 Oasis for Girls is an organization that helps girls cultivate the skills, knowledge, and confidence to discover their dreams and build strong futures inside a country that lacks of women rights. 
 * This organization can contribute to my research because they have been working with high school unprivilaged girls since 1999. 
@@ -170,10 +166,15 @@ Oasis for Girls is an organization that helps girls cultivate the skills, knowle
 * They make sure to empower women to get out into the world no matter what the circumstances are. 
 
 
+[sfoasis@sfoasis.org](https://mail.google.com/mail/u/0/#inbox)
+
+1091 Mission St, San Francisco, CA 94103
+
+(415) 701-7991
 
 ### Additional Sources: 
 #### World Economic Forum
-The Global Gender Gap Report presents information and data that were compiled and/or collected by the World Economic Forum, and it reports on different aspects of  gender inequalities worlwide. Gender wage gap not only happens in the United States but also in the whole world, and this reports has a whole data report about the topic.
+The global gender gap report It reports on different aspects of gender inequalities worlwide such as: health and survival gender gap, education attaiment, economic participation, opportunity and political empowerment. Gender wage gap not only happens in the United States but also in the whole world, and this reports has a whole data report about the topic, and more. 
 
 E-mail: [contact@weforum.org](https://mail.google.com/mail/u/0/#inbox)
 
@@ -183,11 +184,9 @@ Tel: +41 022 869 1212
 [Office of Minority Health
 in collaboration with the RAND Corporation](https://www.cms.gov/About-CMS/Agency-Information/OMH)
 
-Tel: (415) 437-8310
-
 This report emphasizes the racial, ethnic and gender disparities in health care which opens another topic of inequality between the unprivilaged people, and privilaged ones. This report shows collected data that demonstrated how white folks are a priority in obataining quality care than minority groups and females.
 
-
+Tel: (415) 437-8310
 
 
 
