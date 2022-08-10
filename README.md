@@ -38,7 +38,7 @@ _Answer: California is the state with the most deprived people in the country_
 
 ### Question 2: Calculate the total rate below poverty for women and men in each state separately from the total population below poverty. What are the four states with the highest rates of poverty for each sex?
 
-### part 1: 
+### Part 1: 
 
 * First, make sure the state names are sorted A-Z ready to copy and past information from other columns in the right order.
 * Insert a blank sheet in the same google sheet with the name–Question 2.
@@ -47,7 +47,25 @@ _Answer: California is the state with the most deprived people in the country_
 * Calculate the female below poverty rate by dividing the total number of females below poverty with the total below poverty population: =O2/P2
 * Filter and sort the female below poverty rate column Z-A to get the answer.
 
+_Answer: Texas, Georgia, Louisiana, and California are the states with more poor women in the country_
+
 
 ![Screenshot (156)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(156).png)
+
+### Part 2: Where is the highest number of males in poverty located? How does this compare to the highest number of women?
+
+* Use the same sheet for Question 2 part 1
+* Calculate the male below poverty rate by dividing the total number of females below poverty with the total below poverty population: =AF2/P2
+* Filter and sort the male below poverty rate column Z-A 
+
+_Answer: Alaska, New Hampshire, Arkansas and South Dakota are the states with higher males in poverty. Both females and males have high poverty rates in different states of the country._
+
+![Screenshot (159)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(159).png)
+
+
+
+
+
+
 
 
