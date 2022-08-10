@@ -173,7 +173,7 @@ Oasis for Girls is an organization that helps girls cultivate the skills, knowle
 
 ### Additional Sources: 
 #### World Economic Forum
-The Global Gender Gap Report presents information and data that were compiled and/or collected by the World Economic Forum, and it reports on different aspects of  gender inequalities worlwide. Gender wage gap not only happens in the United States but also in the whole wolrld, and this reports has a whole data report about the topic.
+The Global Gender Gap Report presents information and data that were compiled and/or collected by the World Economic Forum, and it reports on different aspects of  gender inequalities worlwide. Gender wage gap not only happens in the United States but also in the whole world, and this reports has a whole data report about the topic.
 
 E-mail: [contact@weforum.org](https://mail.google.com/mail/u/0/#inbox)
 
