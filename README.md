@@ -27,4 +27,10 @@ In this project, I analyzed different data sets from the [Census reporter](https
 _Five data analysis questions will be answered step-by-step:_ 
 
 #### Question 1: What is the state with the most unrepresented groups in the United States? Black or African American, American indian and Alaska Native, Asian, Native Hawaiian and other pacific islander, and hispanics or latinos. 
-* 
+* Locate the columns with the disadvantaged groups: Black or African American, American Indian and Alaska Native, Asian, Native Hawaiian, and other pacific islanders, and Hispanics or Latinos. 
+*Sum all columns with the formula =sum(E2,F2,G2,H2,M2,N2,O2,P2,Q2,R2)
+* Filter and sort the total sum column for Z-A, and the number in the first row is the answer. 
+_Answer: California is the state with the most unrepressented people in the country_
+
+
+
