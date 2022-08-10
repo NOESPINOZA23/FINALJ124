@@ -30,7 +30,24 @@ _Five data analysis questions will be answered step-by-step:_
 * Locate the columns with the disadvantaged groups: Black or African American, American Indian and Alaska Native, Asian, Native Hawaiian, and other pacific islanders, and Hispanics or Latinos. 
 *Sum all columns with the formula =sum(E2,F2,G2,H2,M2,N2,O2,P2,Q2,R2)
 * Filter and sort the total sum column for Z-A, and the number in the first row is the answer. 
-_Answer: California is the state with the most unrepressented people in the country_
+
+
+_Answer: California is the state with the most deprived people in the country_
+
+![Screenshot (152)](https://user-images.githubusercontent.com/109619730/183802143-849f3a28-f9bb-424c-8baf-8962aea106a2.png)
+
+### Question 2: Calculate the total rate below poverty for women and men in each state separately from the total population below poverty. What are the four states with the highest rates of poverty for each sex?
+
+### part 1: 
+
+* First, make sure the state names are sorted A-Z ready to copy and past information from other columns in the right order.
+* Insert a blank sheet in the same google sheet with the name–Question 2.
+* Look at the metadata to copy and paste your female and male below poverty level data with the orginal name headers not the ID headers that census reporter provides.
+* Use =SUM() formula to add the female below poverty and males below poverty to get a total of below poverty population
+* Calculate the female below poverty rate by dividing the total number of females below poverty with the total below poverty population: =O2/P2
+* Filter and sort the female below poverty rate column Z-A to get the answer.
+
+
 
 
 
