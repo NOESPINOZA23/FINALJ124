@@ -46,18 +46,31 @@ Amanda is a women of color leader that uses her art to inspire and point out opp
 
 
 ### Additional Sources: 
-Oasis for Girls 
-[Youth non-profit organization](https://www.oasisforgirls.org/) 
+#### Oasis for Girls 
+
+[Youth non-profit organization](https://www.oasisforgirls.org/)
+
 [sfoasis@sfoasis.org](https://mail.google.com/mail/u/0/#inbox)
+
 1091 Mission St, San Francisco, CA 94103
- (415) 701-7991 
 
+(415) 701-7991
 
+Oasis for Girls is an organization that helps girls cultivate the skills, knowledge, and confidence to discover their dreams and build strong futures inside a country that lacks of women rights. 
+* This organization can contribute to my research because they have been working with high school unprivilaged girls since 1999. 
+* They have the knowledge of what it means to be a women in the United States under a system that is male and white suppresmacist.
+* They may have the access to study girls closer, and find out how the system affects them as women. 
+* They make sure to empower women to get out into the world no matter what the circumstances are. 
 
+#### YWCA USA, Inc
 
+[Young Women's Christian Association of the United States of America, Inc](https://www.ywca.org/ywca-and-racial-justice/)
 
+Email: [info@ywca.org](https://mail.google.com/mail/u/0/#inbox)
 
+1400 I street, Suite 325 Washington, DC 20005
 
+(202) 477-0801
 
 
 
