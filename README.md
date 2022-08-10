@@ -185,7 +185,7 @@ in collaboration with the RAND Corporation](https://www.cms.gov/About-CMS/Agency
 
 Tel: (415) 437-8310
 
-This report emphasizes the racial, ethnic and gender disparities in health care which opens another topic of inequality between the unprivilaged people, and privilaged ones. It reports and shows data on how some folks are a primiroity in quality care than other for their sex, race and ethnicity. 
+This report emphasizes the racial, ethnic and gender disparities in health care which opens another topic of inequality between the unprivilaged people, and privilaged ones. This report shows collected data that demonstrated how white folks are a priority in obataining quality care than minority groups and females.
 
 
 
