@@ -5,59 +5,12 @@
 Women of color continue to experience the most severe gender wage gap in the United States, a reality that reflects the effects of intersecting racial, ethnic, and gender biases that threaten the economic security of women and their families. Furthermore, women and disadvantaged monorities have earned an increasing proportion of bachelor's degrees and other advanced degrees, yet there has not been a similar increase in regulations in favor of these groups. The central problem is the continuing discrimination experienced by disadvantaged minorities and women at every stage of the innovation process, from the exposure and mentoring of children and youth in career fields to post-advancement educational barriers, and from discriminatory denials of patent applications to lack of opportunity. The stubborn resilience of the gender pay gap, coupled with intersecting racial bias in the workplace, means many women of color are perpetually underpaid, and these losses add up and grow over time. The combined effects of racism and gender discrimination, in particular on migrant, immigrant, indigenous, minority and marginalized women have had devastating consequences for their full enjoyment of equality and fundamental human rights both in the public as well as the private sphere.
 
 
-
-### Sourcing
-In this project, I analyzed different data sets from the [Census reporter](https://censusreporter.org/profiles/01000US-united-states/) in the United States:
-["Sex by Educational Attainment for the Population 25 Years and Over"](https://censusreporter.org/data/table/?table=B15002&primary_geo_id=01000US&geo_ids=01000US),
-["Poverty Status in the Past 12 Months by Sex by Age"](https://censusreporter.org/data/table/?table=B17001&primary_geo_id=01000US&geo_ids=01000US),
-["Hispanic or Latino Origin by Race"](https://censusreporter.org/data/table/?table=B03002&primary_geo_id=01000US&geo_ids=01000US), and
-["Household Income in the Past 12 Months (In 2020 Inflation-adjusted Dollars)"](https://censusreporter.org/data/table/?table=B19001&primary_geo_id=01000US&geo_ids=01000US). My analysis focused on the economic disparities that females and disadvatanged communities face.
-
-### Potential Interview Contacts:
-#### 1- Jotaka L. Eaddy, a tech Advisor and Senior Strategist
-
-[Contact Website](https://www.jotakaeaddy.com/contact)
-
-Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
-
-Eaddy would be a qualified contributors to my story because she is very knowledgeable of the system the oppresses women. She has even made an organization, and has gave statements in the United Nations related to intolerances. As a leader women she understands the oppression from another point of view because she has lived it even at white collar scenarios. 
-* Jotaka is the founder of the movement #WinWithBlackWomen (2020), an intergenerational, intersectional group of Black women leaders. These women are representing business, sports, movement, politics, entertainment and more. 
-* #WinWithBlackWomen is credited with making a significant impact on the historic election of 2020 which resulted in the United States first Black woman Vice President–Kamala Harris. 
-* Eaddy gave a statment at the Geneva, 5 – 16, October 2015 in Palais des Nations, Conference Room XXI in which she emphasized income inequality, education, access to technology and STEM education illustrating “the deep correlations between race and poverty” and women. 
-
-#### 2- Dr. Christina M. Castro, founder contributor of The Three Sisters Collective
-Email: [message3sc@gmail.com](https://mail.google.com/mail/u/0/#inbox)
-
-Castro could contribute to my report because she know how disadvantaged people are always in economic needs. She has worked closely with low income and disadvantaged families. 
-* Dr. Christina M. Castro and the organization she helped found, the Three Sisters Collective, worked hard to support the Indigenous Santa Fe community through many challenges this year. When COVID hit, she helped organize a fundraiser for native families experiencing hardship. 
-* During the rough fire season, her organization members came together to purchase and distribute air purifiers and water for native families struggling with the air quality.
-* Throughout these challenges, she worked tirelessly on the Three Sisters Collective’s mural project that protects existing Indigenous artwork in Sante Fe and is creating additional murals to celebrate Indigenous culture and people in the area.
-
-#### 3- Oasis for Girls 
-
-[Youth non-profit organization](https://www.oasisforgirls.org/)
-
-[sfoasis@sfoasis.org](https://mail.google.com/mail/u/0/#inbox)
-
-1091 Mission St, San Francisco, CA 94103
-
-(415) 701-7991
-
-Oasis for Girls is an organization that helps girls cultivate the skills, knowledge, and confidence to discover their dreams and build strong futures inside a country that lacks of women rights. 
-* This organization can contribute to my research because they have been working with high school unprivilaged girls since 1999. 
-* They have the knowledge of what it means to be a women in the United States under a system that is male and white suppresmacist.
-* They may have the access to study girls closer, and find out how the system affects them as women. 
-* They make sure to empower women to get out into the world no matter what the circumstances are. 
+## Data Visualizations
 
 
 
-### Additional Sources: 
-#### World Economic Forum
-The Global Gender Gap Report presents information and data that were compiled and/or collected by the World Economic Forum, and it reports on different aspects of  gender inequalities worlwide. Gender wage gap not only happens in the United States but also in the whole wolrld, and this reports has a whole data report about the topic.
 
-E-mail: [contact@weforum.org](https://mail.google.com/mail/u/0/#inbox)
 
-Tel: +41 (0)22 869 1212
 
 
 
@@ -67,7 +20,6 @@ Tel: +41 (0)22 869 1212
 * Insert a blank google sheet for data cleaning 
 * Look at the metadata to name the headers of each column of your data sets with the orginal headers not the ID headers that census reporter provides.
 * Copy and paste each column of data on the blank sheet to its perspective tittle
-
 
 
 
@@ -162,6 +114,66 @@ _Answer: California is the states with the highest number of population earning 
 ![Screenshot (164)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(164).png)
 
 
+### Sourcing
+In this project, I analyzed different data sets from the [Census reporter](https://censusreporter.org/profiles/01000US-united-states/) in the United States:
+["Sex by Educational Attainment for the Population 25 Years and Over"](https://censusreporter.org/data/table/?table=B15002&primary_geo_id=01000US&geo_ids=01000US),
+["Poverty Status in the Past 12 Months by Sex by Age"](https://censusreporter.org/data/table/?table=B17001&primary_geo_id=01000US&geo_ids=01000US),
+["Hispanic or Latino Origin by Race"](https://censusreporter.org/data/table/?table=B03002&primary_geo_id=01000US&geo_ids=01000US), and
+["Household Income in the Past 12 Months (In 2020 Inflation-adjusted Dollars)"](https://censusreporter.org/data/table/?table=B19001&primary_geo_id=01000US&geo_ids=01000US). My analysis focused on the economic disparities that females and disadvatanged communities face.
+
+### Potential Interview Contacts:
+#### 1- Jotaka L. Eaddy, a tech Advisor and Senior Strategist
+
+[Contact Website](https://www.jotakaeaddy.com/contact)
+
+Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
+
+Eaddy would be a qualified contributors to my story because she is very knowledgeable of the system the oppresses women. She has even made an organization, and has gave statements in the United Nations related to intolerances. As a leader women she understands the oppression from another point of view because she has lived it even at white collar scenarios. 
+* Jotaka is the founder of the movement #WinWithBlackWomen (2020), an intergenerational, intersectional group of Black women leaders. These women are representing business, sports, movement, politics, entertainment and more. 
+* #WinWithBlackWomen is credited with making a significant impact on the historic election of 2020 which resulted in the United States first Black woman Vice President–Kamala Harris. 
+* Eaddy gave a statment at the Geneva, 5 – 16, October 2015 in Palais des Nations, Conference Room XXI in which she emphasized income inequality, education, access to technology and STEM education illustrating “the deep correlations between race and poverty” and women. 
+
+#### 2- Dr. Christina M. Castro, founder contributor of The Three Sisters Collective
+Email: [message3sc@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+Castro could contribute to my report because she know how disadvantaged people are always in economic needs. She has worked closely with low income and disadvantaged families. 
+* Dr. Christina M. Castro and the organization she helped found, the Three Sisters Collective, worked hard to support the Indigenous Santa Fe community through many challenges this year. When COVID hit, she helped organize a fundraiser for native families experiencing hardship. 
+* During the rough fire season, her organization members came together to purchase and distribute air purifiers and water for native families struggling with the air quality.
+* Throughout these challenges, she worked tirelessly on the Three Sisters Collective’s mural project that protects existing Indigenous artwork in Sante Fe and is creating additional murals to celebrate Indigenous culture and people in the area.
+
+#### 3- Oasis for Girls 
+
+[Youth non-profit organization](https://www.oasisforgirls.org/)
+
+[sfoasis@sfoasis.org](https://mail.google.com/mail/u/0/#inbox)
+
+1091 Mission St, San Francisco, CA 94103
+
+(415) 701-7991
+
+Oasis for Girls is an organization that helps girls cultivate the skills, knowledge, and confidence to discover their dreams and build strong futures inside a country that lacks of women rights. 
+* This organization can contribute to my research because they have been working with high school unprivilaged girls since 1999. 
+* They have the knowledge of what it means to be a women in the United States under a system that is male and white suppresmacist.
+* They may have the access to study girls closer, and find out how the system affects them as women. 
+* They make sure to empower women to get out into the world no matter what the circumstances are. 
+
+
+
+### Additional Sources: 
+#### World Economic Forum
+The Global Gender Gap Report presents information and data that were compiled and/or collected by the World Economic Forum, and it reports on different aspects of  gender inequalities worlwide. Gender wage gap not only happens in the United States but also in the whole wolrld, and this reports has a whole data report about the topic.
+
+E-mail: [contact@weforum.org](https://mail.google.com/mail/u/0/#inbox)
+
+Tel: +41 022 869 1212
+
+#### Center for Medicare and Medicaid Services
+[Office of Minority Health
+in collaboration with the RAND Corporation](https://www.cms.gov/About-CMS/Agency-Information/OMH)
+
+Tel: (415) 437-8310
+
+This report emphasizes the racial, ethnic and gender disparities in health care which opens another topic of inequality between the unprivilaged people, and privilaged ones. It reports and shows data on how some folks are a primiroity in quality care than other for their sex, race and ethnicity. 
 
 
 
