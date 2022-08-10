@@ -14,12 +14,35 @@ In this project, I analyzed different data sets from the [Census reporter](https
 ["Household Income in the Past 12 Months (In 2020 Inflation-adjusted Dollars)"](https://censusreporter.org/data/table/?table=B19001&primary_geo_id=01000US&geo_ids=01000US). My analysis focused on the economic disparities that females and disadvatanged communities face.
 
 ### Potential Interview Contacts:
-Jotaka L. Eaddy
-
-Tech Advisor and Senior Strategist
+#### 1- Jotaka L. Eaddy, a tech Advisor and Senior Strategist
 
 [Contact Website](https://www.jotakaeaddy.com/contact)
+
 Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
+
+Eaddy would be a qualified contributors to my story because she is very knowledgeable of the system the oppresses women. She has even made an organization, and has gave statements in the United Nations related to intolerances. As a leader women she understands the oppression from another point of view because she has lived it even at white collar scenarios. 
+* Jotaka is the founder of the movement #WinWithBlackWomen (2020), an intergenerational, intersectional group of Black women leaders. These women are representing business, sports, movement, politics, entertainment and more. 
+* #WinWithBlackWomen is credited with making a significant impact on the historic election of 2020 which resulted in the United States first Black woman Vice President–Kamala Harris. 
+* Eaddy gave a statment at the Geneva, 5 – 16, October 2015 in Palais des Nations, Conference Room XXI in which she emphasized income inequality, education, access to technology and STEM education illustrating “the deep correlations between race and poverty” and women. 
+
+#### 2- Dr. Christina M. Castro, founder contributor of The Three Sisters Collective
+Email: [message3sc@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+Castro could contribute to my report because she know how disadvantaged people are always in economic needs. She has worked closely with low income and disadvantaged families. 
+* Dr. Christina M. Castro and the organization she helped found, the Three Sisters Collective, worked hard to support the Indigenous Santa Fe community through many challenges this year. When COVID hit, she helped organize a fundraiser for native families experiencing hardship. 
+* During the rough fire season, her organization members came together to purchase and distribute air purifiers and water for native families struggling with the air quality.
+* Throughout these challenges, she worked tirelessly on the Three Sisters Collective’s mural project that protects existing Indigenous artwork in Sante Fe and is creating additional murals to celebrate Indigenous culture and people in the area.
+
+#### 3- Amanda Gorman 
+Email: [amandagormn@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+Instagram:[@amandascgorman](https://www.instagram.com/amandascgorman/?hl=en)
+
+### Additional Sources: 
+
+
+
+
+
 
 
 
