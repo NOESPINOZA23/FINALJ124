@@ -48,6 +48,6 @@ _Answer: California is the state with the most deprived people in the country_
 * Filter and sort the female below poverty rate column Z-A to get the answer.
 
 
-
+![Screenshot (156)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(156).png)
 
 
