@@ -7,7 +7,7 @@ Women of color continue to experience the most severe gender wage gap in the Uni
 
 
 ### Sourcing
-In this project, I analyzed different data sets from [Census reporter](https://censusreporter.org/profiles/01000US-united-states/) in the United States:
+In this project, I analyzed different data sets from the [Census reporter](https://censusreporter.org/profiles/01000US-united-states/) in the United States:
 [Sex by Educational Attainment for the Population 25 Years and Over](https://censusreporter.org/data/table/?table=B15002&primary_geo_id=01000US&geo_ids=01000US),
 [Poverty Status in the Past 12 Months by Sex by Age](https://censusreporter.org/data/table/?table=B17001&primary_geo_id=01000US&geo_ids=01000US),
 [Hispanic or Latino Origin by Race](https://censusreporter.org/data/table/?table=B03002&primary_geo_id=01000US&geo_ids=01000US), and
@@ -15,4 +15,16 @@ In this project, I analyzed different data sets from [Census reporter](https://c
 
 
 ## Data Analysis Process
+* First of all, download the all data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. Then, copy and paste each data set to new tabs in your main sheet. 
+* Insert a blank google sheet for data cleaning. 
+* Look at the metadata to name the headers of each column of your data sets with the orginal headers not the ID headers that census reporter provides.
+* Copy and paste each column of data on the blank sheet to its perspective tittle. 
 
+
+
+
+
+_Five data analysis questions will be answered step-by-step:_ 
+
+#### Question 1: What is the state with the most unrepresented groups in the United States? Black or African American, American indian and Alaska Native, Asian, Native Hawaiian and other pacific islander, and hispanics or latinos. 
+* 
