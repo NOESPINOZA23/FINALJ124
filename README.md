@@ -15,10 +15,10 @@ In this project, I analyzed different data sets from the [Census reporter](https
 
 
 ## Data Analysis Process
-* First of all, download the all data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. Then, copy and paste each data set to new tabs in your main sheet. 
-* Insert a blank google sheet for data cleaning. 
+* First of all, download the all data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. Then, copy and paste each data set to new tabs in your main sheet 
+* Insert a blank google sheet for data cleaning 
 * Look at the metadata to name the headers of each column of your data sets with the orginal headers not the ID headers that census reporter provides.
-* Copy and paste each column of data on the blank sheet to its perspective tittle. 
+* Copy and paste each column of data on the blank sheet to its perspective tittle
 
 
 
@@ -27,9 +27,9 @@ In this project, I analyzed different data sets from the [Census reporter](https
 _Five data analysis questions will be answered step-by-step:_ 
 
 #### Question 1: What is the state with the most unrepresented groups in the United States? Black or African American, American indian and Alaska Native, Asian, Native Hawaiian and other pacific islander, and hispanics or latinos. 
-* Locate the columns with the disadvantaged groups: Black or African American, American Indian and Alaska Native, Asian, Native Hawaiian, and other pacific islanders, and Hispanics or Latinos. 
+* Locate the columns with the disadvantaged groups: Black or African American, American Indian and Alaska Native, Asian, Native Hawaiian, and other pacific islanders, and Hispanics or Latinos 
 *Sum all columns with the formula =sum(E2,F2,G2,H2,M2,N2,O2,P2,Q2,R2)
-* Filter and sort the total sum column for Z-A, and the number in the first row is the answer. 
+* Filter and sort the total sum column for Z-A, and the number in the first row is the answer
 
 
 _Answer: California is the state with the most deprived people in the country_
@@ -41,11 +41,11 @@ _Answer: California is the state with the most deprived people in the country_
 ### Part 1: 
 
 * First, make sure the state names are sorted A-Z ready to copy and past information from other columns in the right order.
-* Insert a blank sheet in the same google sheet with the name–Question 2.
-* Look at the metadata to copy and paste your female and male below poverty level data with the orginal name headers not the ID headers that census reporter provides.
+* Insert a blank sheet in the same google sheet with the name–Question 2
+* Look at the metadata to copy and paste your female and male below poverty level data with the orginal name headers not the ID headers that census reporter provides
 * Use =SUM() formula to add the female below poverty and males below poverty to get a total of below poverty population
 * Calculate the female below poverty rate by dividing the total number of females below poverty with the total below poverty population: =O2/P2
-* Filter and sort the female below poverty rate column Z-A to get the answer.
+* Filter and sort the female below poverty rate column Z-A to get the answer
 
 _Answer: Texas, Georgia, Louisiana, and California are the states with more poor women in the country_
 
@@ -61,6 +61,18 @@ _Answer: Texas, Georgia, Louisiana, and California are the states with more poor
 _Answer: Alaska, New Hampshire, Arkansas and South Dakota are the states with higher males in poverty. Both females and males have high poverty rates in different states of the country._
 
 ![Screenshot (159)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(159).png)
+
+### Question 3:  Who has higher total poverty rates in the whole nation, males or females?
+
+### Part 1: Females
+
+* Use the same sheets for Question 2
+* Make sure your filter are clear
+* First, sum all the total female column which includes all states using the =SUM() formula at the bottom of the total female column. Do the same process for the total below poverty population
+* 
+
+
+
 
 
 
