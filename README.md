@@ -35,9 +35,24 @@ Castro could contribute to my report because she know how disadvantaged people a
 
 #### 3- Amanda Gorman 
 Email: [amandagormn@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
 Instagram:[@amandascgorman](https://www.instagram.com/amandascgorman/?hl=en)
 
+Amanda is a women of color leader that uses her art to inspire and point out oppression on disadvatged dcommunities. Because many people follow her, she is able to see how many women and disadvantaged communities are in the need of wanting a better world for them. People seek inspiration and empowerment from her.
+* Amanda has been using her poetry to further her activist beliefs for years. 
+* She founded the youth writing and leadership program in 2016: One Pen One Page. 
+* On that page, her poetry tackles issues of oppression, feminism, race and marginalization, and the African diaspora with critical thinking and hope. 
+
+
+
 ### Additional Sources: 
+Oasis for Girls 
+[Youth non-profit organization](https://www.oasisforgirls.org/) 
+[sfoasis@sfoasis.org](https://mail.google.com/mail/u/0/#inbox)
+1091 Mission St, San Francisco, CA 94103
+ (415) 701-7991 
+
+
 
 
 
