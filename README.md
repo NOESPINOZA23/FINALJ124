@@ -9,7 +9,7 @@ Women of color continue to experience the most severe gender wage gap in the Uni
 
 ### 1- [Minority Groups Per State](https://www.datawrapper.de/_/BhzYY/)
 
-![datvisualizations (BhzYY-where-are-the-unprivileged-communities-living- (1).png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/BhzYY-where-are-the-unprivileged-communities-living-%20(1).png)
+![datvisualizations (BhzYY-where-are-the-unprivileged-communities-living- (2).png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/BhzYY-where-are-the-unprivileged-communities-living-%20(2).png)
 
 ### 2- [Women Getting Higher Education But Worse Systematic Treatment](https://www.datawrapper.de/_/zHPez/)
 
