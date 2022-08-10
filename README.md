@@ -15,7 +15,9 @@ In this project, I analyzed different data sets from the [Census reporter](https
 
 ### Potential Interview Contacts:
 Jotaka L. Eaddy
+
 Tech Advisor and Senior Strategist
+
 [Contact Website](https://www.jotakaeaddy.com/contact)
 Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
 
