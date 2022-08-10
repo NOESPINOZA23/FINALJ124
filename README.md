@@ -100,6 +100,20 @@ _Answer: Females have attained the higher number of people educated of at least 
 
 ![Screenshot (162)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(162).png)
 
+### Question 5: What is the state that has the highest population with the lower incomes below $35,000? How does this relate to female poverty rates per state and race? 
+
+* Insert a new sheet to avoid confusion 
+* Copy and paste the name column on the further left
+* Make sure the name column is clear of filters, and copy and paste all the income columns below $35,000
+* Insert a pivot table, and plug the name colum on rows and the rest on the values 
+* Summarize each column on the values section as MAX. This will give you the actual value of each box in the columns
+* The total will give you the highest number of the column which is our answer 
+
+_Answer: California is the states with the highest number of population earning lower than $35,000 annually. This relates to female poverty rates because California is one of the state with the most poor women in the nation with 92.02% like question 2 demonstrates. Also, California has the highest number of disadvantaged residents in the country_
+
+![Screenshot (164)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(164).png)
+
+
 
 
 
