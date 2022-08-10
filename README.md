@@ -62,14 +62,45 @@ _Answer: Alaska, New Hampshire, Arkansas and South Dakota are the states with hi
 
 ![Screenshot (159)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(159).png)
 
-### Question 3:  Who has higher total poverty rates in the whole nation, males or females?
+### Question 3:  Who has higher poverty in the whole nation, males or females?
 
 ### Part 1: Females
 
 * Use the same sheets for Question 2
 * Make sure your filter are clear
 * First, sum all the total female column which includes all states using the =SUM() formula at the bottom of the total female column. Do the same process for the total below poverty population
-* 
+* Then, calculate the rate by dividing the total female below poverty with the total below poverty population: =O53/P53
+
+![Screenshot (160)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(160).png)
+
+### Part 2: Males
+
+* Repeat the same process for males
+* Use the same sheets for Question 2 
+* Make sure your filter are clear 
+* First, sum all the total male column which includes all states using the =SUM() formula at the bottom of the total female column
+* Then, calculate the rate by dividing the total female below poverty with the total below poverty population: =P53/Q53
+
+![screeshot (161)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(161).png)
+
+_Answer: Females, there are more poor females in the United States_
+
+### Question 4: What gender has the highest total of people that has attained at least a bachelor’s degree in the country, Males or Females? 
+
+* Use the cleaned data set to SUM all the education level starting bachelor’s degree and over for males and females 
+* Use =sum(BY2:CB2) for males, and =sum(CQ2:CT2) for females
+* Insert a new sheet to make further calculations and avoid confusion 
+* Copy and paste the name of states on the further left column
+* Use the =Vlookup() formula to import the two calculated columns for at least bachelor’s degree education for females and males
+* =VLOOKUP(A2,'Cleaned data'!A1:CV52, 82, false) for males, and =VLOOKUP(A2,'Cleaned data'!A1:CV52, 100, false) for females
+* Finally, sum the all the values of the one column–females, then go for the next one–males at the very bottom
+
+_Answer: Females have attained the higher number of people educated of at least bachelor’s degree_
+
+
+![Screenshot (162)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(162).png)
+
+
 
 
 
