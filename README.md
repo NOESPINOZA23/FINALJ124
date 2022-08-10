@@ -7,12 +7,16 @@ Women of color continue to experience the most severe gender wage gap in the Uni
 
 ## Data Visualizations
 
-### 1- [Women Getting Higher Education But Worse Systematic Treatment](https://www.datawrapper.de/_/zHPez/)
+### 1- [Minority Groups Per State](https://www.datawrapper.de/_/BhzYY/)
+
+![datvisualizations (zHPez-women-doing-double-efforts-but-still-get-the-worse-treatment-inside-the-american-economic-system.png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/BhzYY-where-are-the-unprivileged-communities-living-%20(1).png)
+
+### 2- [Women Getting Higher Education But Worse Systematic Treatment](https://www.datawrapper.de/_/zHPez/)
 
 
 ![datvisualizations (datavisualizations/zHPez-women-doing-double-efforts-but-still-get-the-worse-treatment-inside-the-american-economic-system.png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/zHPez-women-doing-double-efforts-but-still-get-the-worse-treatment-inside-the-american-economic-system.png)
 
-### 2- [Male and Female Poverty Level Relationship](https://www.datawrapper.de/_/5QaXt/)
+### 3- [Male and Female Poverty Level Relationship](https://www.datawrapper.de/_/5QaXt/)
 
 ![datavisualizations (5QaXt-a-caste-system-for-females.png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/5QaXt-a-caste-system-for-females.png)
 
