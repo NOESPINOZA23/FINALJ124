@@ -1,1 +1,1 @@
-This folder contains the screeshots for the data analysis
+This folder contains the screeshots for the data analysis.
