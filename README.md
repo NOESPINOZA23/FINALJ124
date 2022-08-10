@@ -33,20 +33,7 @@ Castro could contribute to my report because she know how disadvantaged people a
 * During the rough fire season, her organization members came together to purchase and distribute air purifiers and water for native families struggling with the air quality.
 * Throughout these challenges, she worked tirelessly on the Three Sisters Collective’s mural project that protects existing Indigenous artwork in Sante Fe and is creating additional murals to celebrate Indigenous culture and people in the area.
 
-#### 3- Amanda Gorman 
-Email: [amandagormn@gmail.com](https://mail.google.com/mail/u/0/#inbox)
-
-Instagram:[@amandascgorman](https://www.instagram.com/amandascgorman/?hl=en)
-
-Amanda is a women of color leader that uses her art to inspire and point out oppression on disadvatged dcommunities. Because many people follow her, she is able to see how many women and disadvantaged communities are in the need of wanting a better world for them. People seek inspiration and empowerment from her.
-* Amanda has been using her poetry to further her activist beliefs for years. 
-* She founded the youth writing and leadership program in 2016: One Pen One Page. 
-* On that page, her poetry tackles issues of oppression, feminism, race and marginalization, and the African diaspora with critical thinking and hope. 
-
-
-
-### Additional Sources: 
-#### Oasis for Girls 
+#### 3- Oasis for Girls 
 
 [Youth non-profit organization](https://www.oasisforgirls.org/)
 
@@ -62,15 +49,15 @@ Oasis for Girls is an organization that helps girls cultivate the skills, knowle
 * They may have the access to study girls closer, and find out how the system affects them as women. 
 * They make sure to empower women to get out into the world no matter what the circumstances are. 
 
-#### YWCA USA, Inc
 
-[Young Women's Christian Association of the United States of America, Inc](https://www.ywca.org/ywca-and-racial-justice/)
 
-Email: [info@ywca.org](https://mail.google.com/mail/u/0/#inbox)
+### Additional Sources: 
+#### World Economic Forum
+The Global Gender Gap Report presents information and data that were compiled and/or collected by the World Economic Forum, and it reports on different aspects of  gender inequalities worlwide. Gender wage gap not only happens in the United States but also in the whole wolrld, and this reports has a whole data report about the topic.
 
-1400 I street, Suite 325 Washington, DC 20005
+E-mail: [contact@weforum.org](https://mail.google.com/mail/u/0/#inbox)
 
-(202) 477-0801
+Tel: +41 (0)22 869 1212
 
 
 
