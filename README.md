@@ -13,6 +13,14 @@ In this project, I analyzed different data sets from the [Census reporter](https
 ["Hispanic or Latino Origin by Race"](https://censusreporter.org/data/table/?table=B03002&primary_geo_id=01000US&geo_ids=01000US), and
 ["Household Income in the Past 12 Months (In 2020 Inflation-adjusted Dollars)"](https://censusreporter.org/data/table/?table=B19001&primary_geo_id=01000US&geo_ids=01000US). My analysis focused on the economic disparities that females and disadvatanged communities face.
 
+### Potential Interview Contacts:
+Jotaka L. Eaddy
+Tech Advisor and Senior Strategist
+[Contact Website](https://www.jotakaeaddy.com/contact)
+Instagram: [@jotakaeaddy](https://www.instagram.com/jotakaeaddy/?hl=en)
+
+
+
 
 ## Data Analysis Process
 * First of all, download the all data sheets as .csv files, upload it to Google Drive, and open it with Google Sheets. Then, copy and paste each data set to new tabs in your main sheet 
