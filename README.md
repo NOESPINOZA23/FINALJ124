@@ -9,7 +9,7 @@ Women of color continue to experience the most severe gender wage gap in the Uni
 
 ### 1- [Minority Groups Per State](https://www.datawrapper.de/_/BhzYY/)
 
-![datvisualizations (zHPez-women-doing-double-efforts-but-still-get-the-worse-treatment-inside-the-american-economic-system.png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/BhzYY-where-are-the-unprivileged-communities-living-%20(1).png)
+![datvisualizations (BhzYY-where-are-the-unprivileged-communities-living- (1).png)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/datavisualizations/BhzYY-where-are-the-unprivileged-communities-living-%20(1).png)
 
 ### 2- [Women Getting Higher Education But Worse Systematic Treatment](https://www.datawrapper.de/_/zHPez/)
 
@@ -59,7 +59,7 @@ _Answer: California is the state with the most deprived people in the country_
 * Calculate the female below poverty rate by dividing the total number of females below poverty with the total below poverty population: =O2/P2
 * Filter and sort the female below poverty rate column Z-A to get the answer
 
-_Answer: Texas, Georgia, Louisiana, and California are the states with more poor women in the country_
+_Answer: Texas, Georgia, Louisiana, and California are the states with the most elevated number of poor women in the country_
 
 
 ![Screenshot (156)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(156).png)
@@ -95,7 +95,7 @@ _Answer: Alaska, New Hampshire, Arkansas and South Dakota are the states with hi
 
 ![screeshot (161)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(161).png)
 
-_Answer: Females, there are more poor females in the United States_
+_Answer: There are more poor females in the United States_
 
 ### Question 4: What gender has the highest total of people that has attained at least a bachelor’s degree in the country, Males or Females? 
 
@@ -107,7 +107,7 @@ _Answer: Females, there are more poor females in the United States_
 * =VLOOKUP(A2,'Cleaned data'!A1:CV52, 82, false) for males, and =VLOOKUP(A2,'Cleaned data'!A1:CV52, 100, false) for females
 * Finally, sum the all the values of the one column–females, then go for the next one–males at the very bottom
 
-_Answer: Females have attained the higher number of people educated of at least bachelor’s degree_
+_Answer: Females have attained the higher number of people educated of at least bachelor’s degree and over_
 
 
 ![Screenshot (162)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(162).png)
@@ -121,7 +121,7 @@ _Answer: Females have attained the higher number of people educated of at least 
 * Summarize each column on the values section as MAX. This will give you the actual value of each box in the columns
 * The total will give you the highest number of the column which is our answer 
 
-_Answer: California is the states with the highest number of population earning lower than $35,000 annually. This relates to female poverty rates because California is one of the state with the most poor women in the nation with 92.02% like question 2 demonstrates. Also, California has the highest number of disadvantaged residents in the country_
+_Answer: California is the state with the highest number of population earning lower than $35,000 annually. This relates to female poverty rates because California is one of the states with the most poor women in the nation with 92.02% like question 2 demonstrates. Also, California has the highest number of disadvantaged residents in the country_
 
 ![Screenshot (164)](https://github.com/NOESPINOZA23/FINALJ124/blob/main/screenshots/Screenshot%20(164).png)
 
